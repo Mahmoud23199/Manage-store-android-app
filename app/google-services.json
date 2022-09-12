@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "739369616095",
+    "project_id": "sqllite-ef41d",
+    "storage_bucket": "sqllite-ef41d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739369616095:android:e3ca9fff02304093761f6a",
+        "android_client_info": {
+          "package_name": "com.example.sqllite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739369616095-v1jqaic7gafhnn1j5ok4gj3udl3d0cpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sqllite",
+            "certificate_hash": "f222f4b89da2b9be2873f5f20a741b91611cc3ee"
+          }
+        },
+        {
+          "client_id": "739369616095-07577n91rklh30p5crvr2l6avr4f118u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOjDWQTlVYdfhvhSVBLpz2eJNoinblv7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739369616095-07577n91rklh30p5crvr2l6avr4f118u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
